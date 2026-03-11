@@ -1,0 +1,153 @@
+[
+  {
+    "filename": "00d39d37-4d37-44c3-b02b-76bf91c3e126.png",
+    "lead_id": "#2459",
+    "lead_name": "índia",
+    "date_time_context": "domingo 08:46-08:52",
+    "status": "DIVERGENT",
+    "verdict": "Divergente",
+    "observations": "O terceiro balão das 08:47 excede o limite de 3 frases, agrupando detalhes do plano, regras de pagamento e fechamento em um único bloco.",
+    "critical_fail": false,
+    "timeline": [
+      {
+        "time": "08:47",
+        "event": "Single bubble exceeds 3 sentences (features + payment info + question)"
+      }
+    ],
+    "processed_at": "2026-03-10T20:24:39.609Z"
+  },
+  {
+    "filename": "0c7732ca-ad7e-4e98-b05e-5e6ce99c5939 copy.png",
+    "lead_id": "#2559",
+    "lead_name": ".",
+    "date_time_context": "Unknown 14:36-14:38",
+    "status": "APPROVED",
+    "verdict": "Aprovado",
+    "observations": "Atendimento exemplar: mensagens curtas e separadas por balões, menção correta ao cartão de crédito e ausência de links prematuros.",
+    "critical_fail": false,
+    "timeline": [],
+    "processed_at": "2026-03-10T20:25:00.083Z"
+  },
+  {
+    "filename": "0c7732ca-ad7e-4e98-b05e-5e6ce99c5939.png",
+    "lead_id": "#2559",
+    "lead_name": "Unknown",
+    "date_time_context": "Hoje 14:36-14:38",
+    "status": "APPROVED",
+    "verdict": "Aprovado",
+    "observations": "Automação seguiu todos os critérios: mensagens curtas, separação visual correta, ausência de PIX para planos e resposta contextualizada à saúde.",
+    "critical_fail": false,
+    "timeline": [],
+    "processed_at": "2026-03-10T20:25:10.444Z"
+  },
+  {
+    "filename": "0e25afbc-0ae1-4b39-ac22-85696d9b38b4.png",
+    "lead_id": "#2459",
+    "lead_name": "índia",
+    "date_time_context": "Unknown 09:54-10:06",
+    "status": "DIVERGENT",
+    "verdict": "Divergente",
+    "observations": "Link mencionado/enviado sem intenção de compra e repetição de mensagens idênticas (looping) no bloco das 10:06.",
+    "critical_fail": false,
+    "timeline": [
+      {
+        "time": "10:06",
+        "event": "Bot afirma ter enviado o link de matrícula sem que o lead tenha manifestado intenção clara de compra."
+      },
+      {
+        "time": "10:06",
+        "event": "Repetição de mensagem idêntica no mesmo bloco de resposta (falha de fluxo/looping)."
+      }
+    ],
+    "processed_at": "2026-03-10T20:25:26.006Z"
+  },
+  {
+    "filename": "1d0e2d9d-4a31-4afd-93de-f7a1f65d57df.png",
+    "lead_id": "#2559",
+    "lead_name": ".",
+    "date_time_context": "Unknown 14:38-14:42",
+    "status": "DIVERGENT",
+    "verdict": "Divergente",
+    "observations": "Ausência da explicação da regra de cancelamento (90/30 dias) durante a apresentação dos planos na etapa de pré-venda.",
+    "critical_fail": false,
+    "timeline": [
+      {
+        "time": "14:38",
+        "event": "Bot apresentou os planos mas não explicou a regra de cancelamento de 90/30 dias conforme exigido para dúvidas de pré-venda."
+      }
+    ],
+    "processed_at": "2026-03-10T20:25:56.613Z"
+  },
+  {
+    "filename": "37844a5c-9b89-4ce4-8e48-6f077f427c43.png",
+    "lead_id": "#2556",
+    "lead_name": "Vicky Saccoletto",
+    "date_time_context": "Unknown 15:16-16:01",
+    "status": "APPROVED",
+    "verdict": "Aprovado",
+    "observations": "O bot seguiu todos os protocolos de conformidade, incluindo separação de balões, tratamento de TotalPass e ausência de links sem intenção.",
+    "critical_fail": false,
+    "timeline": [],
+    "processed_at": "2026-03-10T20:26:04.299Z"
+  },
+  {
+    "filename": "8f65465c-dc09-4729-9ff5-884e43b47544.png",
+    "lead_id": "#2556",
+    "lead_name": "Vicky Saccoletto",
+    "date_time_context": "segunda-feira 15:12-15:16",
+    "status": "APPROVED",
+    "verdict": "Aprovado",
+    "observations": "O bot seguiu todas as normas: balões separados corretamente, tom adequado, e orientação correta sobre TotalPass e restrições médicas.",
+    "critical_fail": false,
+    "timeline": [],
+    "processed_at": "2026-03-10T20:26:12.899Z"
+  },
+  {
+    "filename": "9429cd4c-9a6f-4fc5-b5a9-61e02f03c3a5.png",
+    "lead_id": "#2459",
+    "lead_name": "índia",
+    "date_time_context": "Unknown 08:55-10:05",
+    "status": "APPROVED",
+    "verdict": "Aprovado",
+    "observations": "O bot seguiu todas as regras: separação de balões correta, limite de frases respeitado e informações de pagamento condizentes com as normas.",
+    "critical_fail": false,
+    "timeline": [],
+    "processed_at": "2026-03-10T20:26:19.605Z"
+  },
+  {
+    "filename": "968250dd-a118-4638-8172-1a670c1fdea7.png",
+    "lead_id": "#2558",
+    "lead_name": "biiaa 🥰",
+    "date_time_context": "Hoje 11:24-11:31",
+    "status": "APPROVED",
+    "verdict": "Aprovado",
+    "observations": "O bot seguiu as regras de separação de balões para os planos e respeitou o limite de sentenças por mensagem. Sem links ou métodos PIX detectados.",
+    "critical_fail": false,
+    "timeline": [],
+    "processed_at": "2026-03-10T20:26:50.509Z"
+  },
+  {
+    "filename": "eb532baa-a908-43f8-8d65-2fa3d2ad85f9.png",
+    "lead_id": "#2459",
+    "lead_name": "índia",
+    "date_time_context": "02/02/2026 23:39-23:50",
+    "status": "APPROVED",
+    "verdict": "Aprovado",
+    "observations": "O bot seguiu todos os protocolos: mensagens curtas, separação visual correta, sem menção a PIX/Débito para planos e sem envio de links prematuros.",
+    "critical_fail": false,
+    "timeline": [],
+    "processed_at": "2026-03-10T20:27:14.554Z"
+  },
+  {
+    "filename": "ff56e9ec-27ab-4da2-9f79-da30a4d17c5d.png",
+    "lead_id": "#2558",
+    "lead_name": "biiaa 🥰",
+    "date_time_context": "Unknown 11:34-12:10",
+    "status": "APPROVED",
+    "verdict": "Aprovado",
+    "observations": "Atendimento em conformidade. Mensagens curtas, separação visual correta e sem menção a métodos de pagamento proibidos.",
+    "critical_fail": false,
+    "timeline": [],
+    "processed_at": "2026-03-10T20:27:21.840Z"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "audit-agent",
+  "version": "1.0.0",
+  "description": "AI-powered audit agent using Gemini for screenshot analysis",
+  "type": "module",
+  "main": "auditor.ts",
+  "scripts": {
+    "start": "tsx auditor.ts",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^16.4.5",
+    "fs-extra": "^11.2.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "filename": "00d39d37-4d37-44c3-b02b-76bf91c3e126.png",
+    "lead_id": "#2459",
+    "lead_name": "índia",
+    "date_time_context": "domingo 23:52-08:52",
+    "status": "DIVERGENT",
+    "verdict": "Divergente",
+    "observations": "Mensagens enviadas às 08:47 excedem o limite de 1-3 sentenças por balão devido à lista extensa de benefícios em um único bloco.",
+    "critical_fail": false,
+    "timeline": [
+      {
+        "time": "08:47",
+        "event": "Single bubble exceeds 3 sentences (detailed plan benefits list)"
+      }
+    ],
+    "processed_at": "2026-03-10T20:31:24.949Z"
+  },
+  {
+    "filename": "0c7732ca-ad7e-4e98-b05e-5e6ce99c5939 copy.png",
+    "lead_id": "#2559",
+    "lead_name": "Unknown",
+    "date_time_context": "Unknown 14:36-14:38",
+    "status": "DIVERGENT",
+    "verdict": "Divergente",
+    "observations": "Ausência da regra de cancelamento (90/30 dias) e balão do Plano Premium excedeu 3 sentenças ao incluir a pergunta de fechamento no mesmo bloco.",
+    "critical_fail": false,
+    "timeline": [
+      {
+        "time": "14:38",
+        "event": "Regra de cancelamento 90/30 não informada após questionamento sobre procedimento e valores."
+      },
+      {
+        "time": "14:38",
+        "event": "Balão do Plano Premium excede limite de 3 sentenças ao agrupar detalhes do plano e pergunta de preferência."
+      }
+    ],
+    "processed_at": "2026-03-10T20:32:18.463Z"
+  },
+  {
+    "filename": "0c7732ca-ad7e-4e98-b05e-5e6ce99c5939.png",
+    "lead_id": "#2559",
+    "lead_name": "Unknown",
+    "date_time_context": "Unknown 14:36-14:38",
+    "status": "APPROVED",
+    "verdict": "Aprovado",
+    "observations": "O fluxo seguiu as normas: planos separados em balões, indicação de pagamento via cartão de crédito e resposta adequada sobre condições de saúde.",
+    "critical_fail": false,
+    "timeline": [],
+    "processed_at": "2026-03-10T20:32:45.323Z"
+  },
+  {
+    "filename": "0e25afbc-0ae1-4b39-ac22-85696d9b38b4.png",
+    "lead_id": "#2459",
+    "lead_name": "índia",
+    "date_time_context": "Unknown 09:54-10:06",
+    "status": "APPROVED",
+    "verdict": "Aprovado",
+    "observations": "Conversa em conformidade. Mensagens separadas em balões, PIX mencionado apenas para diárias e limite de frases por balão respeitado.",
+    "critical_fail": false,
+    "timeline": [],
+    "processed_at": "2026-03-10T20:33:09.703Z"
+  },
+  {
+    "filename": "1d0e2d9d-4a31-4afd-93de-f7a1f65d57df.png",
+    "lead_id": "#2559",
+    "lead_name": ".",
+    "date_time_context": "Unknown 14:38-14:42",
+    "status": "DIVERGENT",
+    "verdict": "Divergente",
+    "observations": "As bolhas de mensagens contendo os detalhes dos planos (14:38) excedem o limite técnico de 1-3 sentenças por balão.",
+    "critical_fail": false,
+    "timeline": [
+      {
+        "time": "14:38",
+        "event": "Bolha do Plano Basic excede o limite de 3 sentenças"
+      },
+      {
+        "time": "14:38",
+        "event": "Bolha do Plano Premium excede o limite de 3 sentenças"
+      }
+    ],
+    "processed_at": "2026-03-10T20:33:31.335Z"
+  },
+  {
+    "filename": "37844a5c-9b89-4ce4-8e48-6f077f427c43.png",
+    "lead_id": "#2556",
+    "lead_name": "Vicky Saccoletto",
+    "date_time_context": "Unknown 15:16-16:01",
+    "status": "APPROVED",
+    "verdict": "Aprovado",
+    "observations": "O bot seguiu todas as regras de conformidade, incluindo separação de balões, tratamento de TotalPass e tom de voz adequado.",
+    "critical_fail": false,
+    "timeline": [],
+    "processed_at": "2026-03-10T20:33:38.033Z"
+  },
+  {
+    "filename": "8f65465c-dc09-4729-9ff5-884e43b47544.png",
+    "lead_id": "#2556",
+    "lead_name": "Vicky Saccoletto",
+    "date_time_context": "Unknown 15:12-15:16",
+    "status": "APPROVED",
+    "verdict": "Aprovado",
+    "observations": "O bot seguiu todas as normas de separação de mensagens, orientações sobre convênios e tom de voz adequado.",
+    "critical_fail": false,
+    "timeline": [],
+    "processed_at": "2026-03-10T20:33:45.713Z"
+  },
+  {
+    "filename": "9429cd4c-9a6f-4fc5-b5a9-61e02f03c3a5.png",
+    "lead_id": "#2459",
+    "lead_name": "índia",
+    "date_time_context": "Unknown 08:55-10:05",
+    "status": "APPROVED",
+    "verdict": "Aprovado",
+    "observations": "O fluxo respeita a separação de balões, diferencia corretamente pagamentos via PIX apenas para avulsos e não enviou link prematuramente.",
+    "critical_fail": false,
+    "timeline": [],
+    "processed_at": "2026-03-10T20:33:55.370Z"
+  },
+  {
+    "filename": "968250dd-a118-4638-8172-1a670c1fdea7.png",
+    "lead_id": "#2558",
+    "lead_name": "biiaa🥰",
+    "date_time_context": "Unknown 11:24-11:31",
+    "status": "APPROVED",
+    "verdict": "Aprovado",
+    "observations": "O bot seguiu as regras de separação de balões para os planos, manteve o limite de sentenças e não enviou links ou métodos de pagamento indevidos.",
+    "critical_fail": false,
+    "timeline": [],
+    "processed_at": "2026-03-10T20:34:24.830Z"
+  },
+  {
+    "filename": "eb532baa-a908-43f8-8d65-2fa3d2ad85f9.png",
+    "lead_id": "#2459",
+    "lead_name": "índia",
+    "date_time_context": "02/02/2026 23:39-23:50",
+    "status": "DIVERGENT",
+    "verdict": "Divergente",
+    "observations": "Mensagens às 23:50 excedem 3 frases por balão. O bot foi redundante às 23:41 ao repetir a apresentação e o menu em mensagens separadas.",
+    "critical_fail": false,
+    "timeline": [
+      {
+        "time": "23:41",
+        "event": "Bot envia mensagens redundantes repetindo apresentação e menu em dois balões seguidos."
+      },
+      {
+        "time": "23:50",
+        "event": "O balão com detalhes do Plano Basic excede o limite de 3 frases."
+      },
+      {
+        "time": "23:50",
+        "event": "O balão com detalhes do Plano Premium excede o limite de 3 frases."
+      }
+    ],
+    "processed_at": "2026-03-10T20:35:11.875Z"
+  },
+  {
+    "filename": "ff56e9ec-27ab-4da2-9f79-da30a4d17c5d.png",
+    "lead_id": "#2558",
+    "lead_name": "biiaa 🥰",
+    "date_time_context": "Unknown 11:34-12:10",
+    "status": "APPROVED",
+    "verdict": "Aprovado",
+    "observations": "O atendimento cumpre as regras de separação de balões, brevidade das mensagens e ausência de métodos de pagamento proibidos.",
+    "critical_fail": false,
+    "timeline": [],
+    "processed_at": "2026-03-10T20:35:37.513Z"
+  }
+]

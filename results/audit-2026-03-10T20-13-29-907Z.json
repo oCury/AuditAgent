@@ -1,0 +1,216 @@
+[
+  {
+    "filename": "00d39d37-4d37-44c3-b02b-76bf91c3e126.png",
+    "lead_id": "#2459",
+    "lead_name": "Índia",
+    "date_time_context": "Unknown 23:52-08:52",
+    "status": "DIVERGENT",
+    "verdict": "Divergente",
+    "observations": "Ausência obrigatória da tag [[BALAO]] entre mensagens e conteúdo excedendo o limite de 3 sentenças por balão (08:47).",
+    "critical_fail": false,
+    "timeline": [
+      {
+        "time": "23:55",
+        "event": "Ausência da tag [[BALAO]] entre as mensagens da automação."
+      },
+      {
+        "time": "08:47",
+        "event": "Ausência da tag [[BALAO]] entre as mensagens da automação."
+      },
+      {
+        "time": "08:47",
+        "event": "O último balão de mensagem excede o limite de 1 a 3 sentenças curtas."
+      }
+    ],
+    "processed_at": "2026-03-10T20:11:39.040Z"
+  },
+  {
+    "filename": "0c7732ca-ad7e-4e98-b05e-5e6ce99c5939.png",
+    "lead_id": "#2559",
+    "lead_name": "Unknown",
+    "date_time_context": "Hoje 14:36-14:38",
+    "status": "DIVERGENT",
+    "verdict": "Divergente",
+    "observations": "Ausência do separador obrigatório [[BALAO]] entre todas as bolhas de mensagem enviadas pela automação.",
+    "critical_fail": false,
+    "timeline": [
+      {
+        "time": "14:37",
+        "event": "Ausência do separador [[BALAO]] após a primeira mensagem"
+      },
+      {
+        "time": "14:38",
+        "event": "Ausência do separador [[BALAO]] entre as quatro bolhas sequenciais enviadas"
+      }
+    ],
+    "processed_at": "2026-03-10T20:11:56.528Z"
+  },
+  {
+    "filename": "0e25afbc-0ae1-4b39-ac22-85696d9b38b4.png",
+    "lead_id": "#2459",
+    "lead_name": "índia",
+    "date_time_context": "Unknown 09:54-10:06",
+    "status": "DIVERGENT",
+    "verdict": "Divergente",
+    "observations": "Ausência da tag obrigatória [[BALAO]] entre os balões de mensagem da automação.",
+    "critical_fail": false,
+    "timeline": [
+      {
+        "time": "09:54",
+        "event": "Ausência do separador [[BALAO]] entre as mensagens da automação."
+      },
+      {
+        "time": "10:06",
+        "event": "Ausência do separador [[BALAO]] entre as mensagens da automação."
+      }
+    ],
+    "processed_at": "2026-03-10T20:12:09.037Z"
+  },
+  {
+    "filename": "1d0e2d9d-4a31-4afd-93de-f7a1f65d57df.png",
+    "lead_id": "#2559",
+    "lead_name": ".",
+    "date_time_context": "Unknown 14:38-14:42",
+    "status": "DIVERGENT",
+    "verdict": "Divergente",
+    "observations": "Ausência da tag obrigatória [[BALAO]] entre as bolhas de mensagem enviadas às 14:38.",
+    "critical_fail": false,
+    "timeline": [
+      {
+        "time": "14:38",
+        "event": "Mensagens enviadas sem o separador [[BALAO]]"
+      }
+    ],
+    "processed_at": "2026-03-10T20:12:21.957Z"
+  },
+  {
+    "filename": "37844a5c-9b89-4ce4-8e48-6f077f427c43.png",
+    "lead_id": "#2556",
+    "lead_name": "Vicky Saccoletto",
+    "date_time_context": "Unknown 15:16-16:01",
+    "status": "DIVERGENT",
+    "verdict": "Divergente",
+    "observations": "Ausência obrigatória da tag [[BALAO]] para separação das bolhas de mensagem enviadas pela automação.",
+    "critical_fail": false,
+    "timeline": [
+      {
+        "time": "15:16",
+        "event": "Ausência da tag [[BALAO]] entre as bolhas de mensagem"
+      },
+      {
+        "time": "15:25",
+        "event": "Ausência da tag [[BALAO]] na mensagem da automação"
+      },
+      {
+        "time": "16:00",
+        "event": "Ausência da tag [[BALAO]] na mensagem da automação"
+      },
+      {
+        "time": "16:01",
+        "event": "Ausência da tag [[BALAO]] na mensagem da automação"
+      }
+    ],
+    "processed_at": "2026-03-10T20:12:38.000Z"
+  },
+  {
+    "filename": "8f65465c-dc09-4729-9ff5-884e43b47544.png",
+    "lead_id": "#2556",
+    "lead_name": "Vicky Saccoletto",
+    "date_time_context": "segunda-feira 15:12-15:16",
+    "status": "DIVERGENT",
+    "verdict": "Divergente",
+    "observations": "Ausência da tag obrigatória [[BALAO]] entre as mensagens da automação enviadas nos horários 15:13 e 15:15.",
+    "critical_fail": false,
+    "timeline": [
+      {
+        "time": "15:13",
+        "event": "Ausência da tag [[BALAO]] entre os balões de mensagem da automação."
+      },
+      {
+        "time": "15:15",
+        "event": "Ausência da tag [[BALAO]] entre os balões de mensagem da automação."
+      }
+    ],
+    "processed_at": "2026-03-10T20:12:50.997Z"
+  },
+  {
+    "filename": "9429cd4c-9a6f-4fc5-b5a9-61e02f03c3a5.png",
+    "lead_id": "#2459",
+    "lead_name": "índia",
+    "date_time_context": "Unknown 08:55-10:05",
+    "status": "DIVERGENT",
+    "verdict": "Divergente",
+    "observations": "Ausência da tag [[BALAO]] obrigatória entre todos os balões de mensagem enviados pela automação.",
+    "critical_fail": false,
+    "timeline": [
+      {
+        "time": "08:55",
+        "event": "Missing [[BALAO]] separator"
+      },
+      {
+        "time": "09:17",
+        "event": "Missing [[BALAO]] separator"
+      },
+      {
+        "time": "09:54",
+        "event": "Missing [[BALAO]] separator"
+      }
+    ],
+    "processed_at": "2026-03-10T20:13:00.940Z"
+  },
+  {
+    "filename": "968250dd-a118-4638-8172-1a670c1fdea7.png",
+    "lead_id": "#2558",
+    "lead_name": "biiaa🥰",
+    "date_time_context": "Unknown 11:24-11:31",
+    "status": "DIVERGENT",
+    "verdict": "Divergente",
+    "observations": "Ausência do separador obrigatório [[BALAO]] entre as mensagens enviadas às 11:27.",
+    "critical_fail": false,
+    "timeline": [
+      {
+        "time": "11:27",
+        "event": "Ausência do separador [[BALAO]] entre os balões de planos"
+      }
+    ],
+    "processed_at": "2026-03-10T20:13:09.552Z"
+  },
+  {
+    "filename": "eb532baa-a908-43f8-8d65-2fa3d2ad85f9.png",
+    "lead_id": "#2459",
+    "lead_name": "índia",
+    "date_time_context": "02/02/2026 23:39-23:50",
+    "status": "DIVERGENT",
+    "verdict": "Divergente",
+    "observations": "Ausência da tag obrigatória [[BALAO]] entre as bolhas de mensagem da automação.",
+    "critical_fail": false,
+    "timeline": [
+      {
+        "time": "23:41",
+        "event": "Ausência do separador [[BALAO]] entre as mensagens."
+      },
+      {
+        "time": "23:50",
+        "event": "Ausência do separador [[BALAO]] entre as mensagens."
+      }
+    ],
+    "processed_at": "2026-03-10T20:13:15.313Z"
+  },
+  {
+    "filename": "ff56e9ec-27ab-4da2-9f79-da30a4d17c5d.png",
+    "lead_id": "#2558",
+    "lead_name": "biiaa🥰",
+    "date_time_context": "Unknown 11:34-12:10",
+    "status": "DIVERGENT",
+    "verdict": "Divergente",
+    "observations": "Ausência do separador obrigatório [[BALAO]] entre as bolhas de mensagem da automação enviadas em sequência às 11:35.",
+    "critical_fail": false,
+    "timeline": [
+      {
+        "time": "11:35",
+        "event": "Ausência do separador [[BALAO]] entre as três bolhas de mensagem consecutivas."
+      }
+    ],
+    "processed_at": "2026-03-10T20:13:29.905Z"
+  }
+]
